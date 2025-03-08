@@ -3,10 +3,10 @@ TodoApp
 TodoAppは、タスク管理を簡単に行うためのシンプルなアプリケーションです。このアプリケーションでは、タスクの追加、表示、完了、削除を行うことができます。
 
 # 特徴
--タスクの追加
--タスクの表示
--タスクの完了
--タスクの削除
+- タスクの追加
+- タスクの表示
+- タスクの完了
+- タスクの削除
 
 # インストール
 このプロジェクトをローカルマシンにクローンし、必要な依存関係をインストールしてください。
@@ -29,14 +29,14 @@ cd TodoApp
 3. タスクを完了する
 4. タスクを削除する
 5. アプリを終了する
-選択肢を入力してください:
+選択肢を入力してください: 
 ```
 
 # 貢献
 バグ報告や機能リクエスト、プルリクエストは歓迎します。以下の手順に従って貢献してください。
 
 1.このリポジトリをフォークします。
-1.新しいブランチを作成します（git checkout -b feature/AmazingFeature）。
-1.変更をコミットします（git commit -m 'Add some AmazingFeature'）。
-1.ブランチにプッシュします（git push origin feature/AmazingFeature）。
-1.プルリクエストを開きます。
+2.新しいブランチを作成します（git checkout -b feature/AmazingFeature）。
+3.変更をコミットします（git commit -m 'Add some AmazingFeature'）。
+4.ブランチにプッシュします（git push origin feature/AmazingFeature）。
+5.プルリクエストを開きます。
