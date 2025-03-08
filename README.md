@@ -31,12 +31,3 @@ cd TodoApp
 5. アプリを終了する
 選択肢を入力してください: 
 ```
-
-# 貢献
-バグ報告や機能リクエスト、プルリクエストは歓迎します。以下の手順に従って貢献してください。
-
-1.このリポジトリをフォークします。
-2.新しいブランチを作成します（git checkout -b feature/AmazingFeature）。
-3.変更をコミットします（git commit -m 'Add some AmazingFeature'）。
-4.ブランチにプッシュします（git push origin feature/AmazingFeature）。
-5.プルリクエストを開きます。
